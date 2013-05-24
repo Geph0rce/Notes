@@ -7,7 +7,7 @@
 ###FFmpeg 包含的组件
 **Programs**
 
-ffmpeg - 支持各种多媒体文件格式的转码工具*(command line tool*)
+ffmpeg - 支持各种多媒体文件格式的转码工具*(command line tool)*
 
 ffserver - 支持直播的多媒体流服务器
 
